@@ -1,0 +1,72 @@
+CRITICAL - 2022-02-21 09:44:54 --> Undefined property: App\Controllers\Product::$require
+#0 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\app\Controllers\Product.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\Users\\ADMIN\\...', 35)
+#1 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(825): App\Controllers\Product->create()
+#2 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\ADMIN\\...')
+#6 {main}
+CRITICAL - 2022-02-21 09:46:35 --> Undefined property: App\Controllers\Product::$require
+#0 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\app\Controllers\Product.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\Users\\ADMIN\\...', 35)
+#1 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(825): App\Controllers\Product->create()
+#2 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\ADMIN\\...')
+#6 {main}
+CRITICAL - 2022-02-21 09:47:27 --> Undefined property: App\Controllers\Product::$require
+#0 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\app\Controllers\Product.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\Users\\ADMIN\\...', 35)
+#1 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(825): App\Controllers\Product->create()
+#2 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\ADMIN\\...')
+#6 {main}
+CRITICAL - 2022-02-21 09:47:59 --> Undefined property: App\Controllers\Product::$require
+#0 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\app\Controllers\Product.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\Users\\ADMIN\\...', 35)
+#1 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(825): App\Controllers\Product->create()
+#2 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\ADMIN\\...')
+#6 {main}
+CRITICAL - 2022-02-21 09:48:26 --> Undefined property: App\Controllers\Product::$require
+#0 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\app\Controllers\Product.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\Users\\ADMIN\\...', 35)
+#1 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(825): App\Controllers\Product->create()
+#2 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\ADMIN\\...')
+#6 {main}
+CRITICAL - 2022-02-21 09:49:00 --> Undefined property: App\Controllers\Product::$require
+#0 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\app\Controllers\Product.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\Users\\ADMIN\\...', 35)
+#1 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(825): App\Controllers\Product->create()
+#2 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\ADMIN\\...')
+#6 {main}
+CRITICAL - 2022-02-21 09:51:25 --> Undefined property: App\Controllers\Product::$require
+#0 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\app\Controllers\Product.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\Users\\ADMIN\\...', 35)
+#1 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(825): App\Controllers\Product->create()
+#2 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\ADMIN\\...')
+#6 {main}
+CRITICAL - 2022-02-21 09:56:08 --> Undefined property: App\Controllers\Product::$require
+#0 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\app\Controllers\Product.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\Users\\ADMIN\\...', 37)
+#1 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(825): App\Controllers\Product->create()
+#2 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\ADMIN\\...')
+#6 {main}
+CRITICAL - 2022-02-21 09:56:25 --> Undefined property: App\Controllers\Product::$require
+#0 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\app\Controllers\Product.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\Users\\ADMIN\\...', 37)
+#1 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(825): App\Controllers\Product->create()
+#2 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\ADMIN\3-2\Mobile application development\ci_product_api\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\ADMIN\\...')
+#6 {main}
